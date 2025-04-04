@@ -1,0 +1,24 @@
+<div class="container">
+    <section class="doctor-info section">
+        <h2>Meet Our Expert</h2>
+        <img src="doctor-image.jpg" alt="Dr. Kishan Choudhary">
+        <p><strong>Dr. Kishan Choudhary (MD)</strong> - 4 Years Experience</p>
+    </section>
+
+    <section class="products section">
+        <h2>Our Skin Care Products</h2>
+        <ul>
+            <li><strong>Lurix</strong> - Antifungal Ointment (Luliconazole 1%)</li>
+            <li><strong>Clinexa</strong> - Acne Gel (Clindamycin + Adapalene)</li>
+            <li><strong>Fexol-180</strong> - Anti-Allergy Tablets (Fexofenadine 180mg)</li>
+            <li><strong>Benzify</strong> - Acne Treatment Gel (Benzoyl Peroxide 2.5% & 5%)</li>
+        </ul>
+    </section>
+
+    <section class="contact-info section">
+        <h2>Contact Us</h2>
+        <p><strong>Phone:</strong> 9887814539</p>
+        <p><strong>Email:</strong> grassofree@gmail.com</p>
+        <p><strong>Location:</strong> <a href="https://g.co/kgs/z2qag5e" target="_blank">Visit on Google Maps</a></p>
+    </section>
+</div>
